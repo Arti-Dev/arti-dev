@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![pikachu](https://user-images.githubusercontent.com/46334223/131219242-a634de92-14cd-4b99-aee9-fd54c66dbbc5.gif)
+
 
 <!--
 **Arti-Dev/arti-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
