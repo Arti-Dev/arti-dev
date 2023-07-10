@@ -10,4 +10,4 @@ Discord: Arti_Creep#5796
 "Website": https://arti-dev.github.io/
 
 Languages I know: Python, Java
-Currently trying out SQL and JSON
+Currently trying out SQL
