@@ -4,7 +4,7 @@ I code Minecraft Spigot Plugins as a side hobby.
 
 I'm also an active player/volunteer designer on the Hypixel Network.
 
-Discord: Arti_Creep#5796
+Discord: @arti_creep
 
 "Website": https://arti-dev.github.io/
 
