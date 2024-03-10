@@ -6,7 +6,7 @@ I'm also an active player/volunteer designer on the Hypixel Network.
 
 Discord: @arti_creep
 
-"Website": https://arti-dev.github.io/
+Website: https://arti-dev.github.io/
 
 Hypixel-related words: Conclave, Nerds, Wiki
 https://wiki.hypixel.net/User:Arti_Creep 
