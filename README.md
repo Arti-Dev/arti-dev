@@ -8,5 +8,5 @@ Discord: @arti_creep
 
 Website: https://arti-dev.github.io/
 
-Hypixel-related words: Conclave, Nerds, Wiki
+Hypixel-related words: Nerds, Wiki
 https://wiki.hypixel.net/User:Arti_Creep 
